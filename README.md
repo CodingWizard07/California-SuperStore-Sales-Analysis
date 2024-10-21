@@ -1,1 +1,2 @@
 # California-SuperStore-Sales-Analysis
+"California SuperStore Sales Analysis" project was undertaken to harness data-driven insights to enhance sales forecasting accuracy and decision-making effectiveness.Utilizing advanced data analysis techniques, especially time series analysis, the project aimed at delivering a comprehensive understanding of sales dynamics and customer purchasing patterns, over a dataset of almost 6000 customer records.
